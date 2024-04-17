@@ -11,6 +11,7 @@
   </ul>   
   <p>OBS: Para embaralhar os nomes do Array ultilizei o algoritmo Fisher–Yates. Que é muito bom por sinal! Vou deixar um link abaixo.</p>
   <a href="http://cangaceirojavascript.com.br/como-embaralhar-arrays-algoritmo-fisher-yates/">Como embaralhar arrays com o algoritmo Fisher–Yates</a>
+  <p>Que tal dar uma olhadinha nesse projeto? Segue o link: https://rlxmts.github.io/amigo-secreto/</p>
   <br><br><br><br>
   <img src="https://github.com/rlxmts/amigo-secreto/assets/165737916/1c7be31f-1aec-4d24-8ff6-8c5257868fe8">
 </div>
